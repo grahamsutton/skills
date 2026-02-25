@@ -8,7 +8,7 @@
     {
       "name": "laravel-backend-development",
       "description": "Laravel backend development skill with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices",
-      "source": "https://raw.githubusercontent.com/grahamsutton/skills/main/laravel-backend-development"
+      "source": "github:grahamsutton/skills/laravel-backend-development"
     }
   ]
 }
