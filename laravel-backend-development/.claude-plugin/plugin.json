@@ -1,0 +1,11 @@
+{
+  "name": "laravel-backend-development",
+  "description": "Triggers on Laravel backend tasks: controllers, models, migrations, APIs, services, jobs, policies, database schema, Eloquent, or any server-side PHP. Generates idiomatic Laravel code with string ULID IDs, versioned REST APIs, and modern best practices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Graham Sutton"
+  },
+  "homepage": "https://github.com/grahamsutton/skills",
+  "repository": "https://github.com/grahamsutton/skills",
+  "license": "MIT"
+}

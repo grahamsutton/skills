@@ -2,6 +2,26 @@
 
 A Claude Code skill for generating maintainable, idiomatic Laravel backend code.
 
+## Installation
+
+### Option 1: Via Plugin Marketplace (Recommended)
+
+1. Add the marketplace:
+   ```
+   /plugin marketplace add https://raw.githubusercontent.com/grahamsutton/skills/main/marketplace.json
+   ```
+
+2. Install the plugin:
+   ```
+   /plugin install laravel-backend-development
+   ```
+
+### Option 2: Test Locally
+
+```bash
+claude --plugin-dir /path/to/skills/laravel-backend-development
+```
+
 ## Overview
 
 This skill activates when working with Laravel server-side features: controllers, models, migrations, API endpoints, services, jobs, events, policies, authentication, authorization, queues, and database operations.

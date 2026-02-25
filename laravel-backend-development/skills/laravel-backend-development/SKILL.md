@@ -1,5 +1,5 @@
 ---
-name: backend-development
+name: laravel-backend-development
 description: "Triggers on Laravel backend tasks: controllers, models, migrations, APIs, services, jobs, policies, database schema, Eloquent, or any server-side PHP. Generates idiomatic Laravel code with string ULID IDs, versioned REST APIs, and modern best practices."
 license: MIT
 metadata:

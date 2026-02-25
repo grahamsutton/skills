@@ -1,0 +1,18 @@
+{
+  "name": "Graham Sutton's Skills",
+  "description": "Personally curated Claude Code skills based on how I like to code",
+  "owner": {
+    "name": "Graham Sutton"
+  },
+  "plugins": [
+    {
+      "name": "laravel-backend-development",
+      "description": "Laravel backend development skill with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices",
+      "source": {
+        "type": "github",
+        "repository": "grahamsutton/skills",
+        "path": "laravel-backend-development"
+      }
+    }
+  ]
+}

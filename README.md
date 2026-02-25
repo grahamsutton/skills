@@ -1,2 +1,27 @@
 # Skills
-Personally curated repository of agent skills based on how I like to code.
+
+Personally curated repository of Claude Code skills based on how I like to code.
+
+## Installation
+
+### Add This Marketplace
+
+```
+/plugin marketplace add https://raw.githubusercontent.com/grahamsutton/skills/main/marketplace.json
+```
+
+### Install a Skill
+
+```
+/plugin install laravel-backend-development
+```
+
+## Available Skills
+
+| Skill | Description |
+|-------|-------------|
+| [laravel-backend-development](./laravel-backend-development) | Laravel backend development with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices |
+
+## License
+
+MIT
