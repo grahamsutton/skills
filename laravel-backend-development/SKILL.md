@@ -1,6 +1,6 @@
 ---
 name: backend-development
-description: "Generates maintainable, idiomatic Laravel backend code. Activates when creating controllers, models, migrations, API endpoints, services, jobs, events, policies, form requests, or any server-side PHP code; when working with database schema, Eloquent relationships, authentication, authorization, queues, or third-party integrations; when the user mentions backend, API, endpoint, model, migration, controller, service, job, or any Laravel server-side feature. This skill should be active for nearly all code generation tasks."
+description: "Triggers on Laravel backend tasks: controllers, models, migrations, APIs, services, jobs, policies, database schema, Eloquent, or any server-side PHP. Generates idiomatic Laravel code with string ULID IDs, versioned REST APIs, and modern best practices."
 license: MIT
 metadata:
   author: Graham Sutton
