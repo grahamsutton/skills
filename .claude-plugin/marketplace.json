@@ -1,0 +1,21 @@
+{
+  "name": "graham-suttons-skills",
+  "owner": {
+    "name": "Graham Sutton"
+  },
+  "metadata": {
+    "description": "Personally curated Claude Code skills based on how I like to code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gs",
+      "description": "Personally curated Claude Code skills by Graham Sutton",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/laravel-backend-development"
+      ]
+    }
+  ]
+}
