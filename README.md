@@ -7,7 +7,7 @@ Personally curated repository of Claude Code skills based on how I like to code.
 ### Add This Marketplace
 
 ```
-/plugin marketplace add https://raw.githubusercontent.com/grahamsutton/skills/main/marketplace.json
+/plugin marketplace add grahamsutton/skills
 ```
 
 ### Install a Skill
@@ -20,7 +20,7 @@ Personally curated repository of Claude Code skills based on how I like to code.
 
 | Skill | Description |
 |-------|-------------|
-| [laravel-backend-development](./laravel-backend-development) | Laravel backend development with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices |
+| [laravel-backend-development](./skills/laravel-backend-development) | Laravel backend development with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices |
 
 ## License
 
