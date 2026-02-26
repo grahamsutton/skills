@@ -1,0 +1,11 @@
+{
+  "name": "laravel-backend-development",
+  "description": "Laravel backend development skill with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices",
+  "version": "1.0.0",
+  "author": {
+    "name": "Graham Sutton"
+  },
+  "homepage": "https://github.com/grahamsutton/skills",
+  "repository": "https://github.com/grahamsutton/skills",
+  "license": "MIT"
+}

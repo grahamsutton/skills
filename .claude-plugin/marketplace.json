@@ -9,13 +9,9 @@
   },
   "plugins": [
     {
-      "name": "gs",
-      "description": "Personally curated Claude Code skills by Graham Sutton",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/laravel-backend-development"
-      ]
+      "name": "laravel-backend-development",
+      "description": "Laravel backend development skill with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices",
+      "source": "./laravel-backend-development"
     }
   ]
 }
