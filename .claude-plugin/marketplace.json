@@ -11,7 +11,9 @@
     {
       "name": "laravel-backend-development",
       "description": "Laravel backend development skill with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices",
-      "source": "./laravel-backend-development"
+      "source": "./laravel-backend-development",
+      "version": "1.0.0",
+      "strict": false
     }
   ]
 }
