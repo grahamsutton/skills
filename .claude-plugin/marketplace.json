@@ -14,6 +14,13 @@
       "source": "./",
       "version": "1.0.0",
       "strict": false
+    },
+    {
+      "name": "ux-craftsman",
+      "description": "Expert UX craftsman guided by Laws of UX. Creates unique, non-generic interfaces, forces clarity on requirements, and enforces pattern reuse",
+      "source": "./",
+      "version": "1.0.0",
+      "strict": false
     }
   ]
 }
