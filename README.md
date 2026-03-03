@@ -21,6 +21,7 @@ Personally curated repository of Claude Code skills based on how I like to code.
 | Skill | Description |
 |-------|-------------|
 | [laravel-backend-development](./skills/laravel-backend-development) | Laravel backend development with idiomatic code, string ULID IDs, versioned REST APIs, and modern best practices |
+| [ux-craftsman](./skills/ux-craftsman) | Expert UX craftsman guided by the Laws of UX. Creates unique, non-generic interfaces, forces clarity on requirements, and enforces pattern reuse for consistency |
 
 ## License
 
